@@ -69,12 +69,12 @@
       "role": "turkish_entertainment",
       "repository_found": true,
       "migration_verified": false
-    }
-  ],
-  "unverified_repositories": [
+    },
     {
       "repository": "nimania/pendar-weather",
-      "status": "not_seen_in_connected_repository_listing"
+      "role": "weather",
+      "repository_found": true,
+      "migration_verified": false
     }
   ],
   "publishing_policy": {

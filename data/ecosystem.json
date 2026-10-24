@@ -1,0 +1,86 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-10-24",
+  "note": "Repository discovery only; publication/migration health not yet verified.",
+  "central": "nimania/pendar",
+  "repositories": [
+    {
+      "repository": "nimania/pendar",
+      "role": "editorial",
+      "repository_found": true,
+      "migration_verified": false
+    },
+    {
+      "repository": "nimania/pendar-hub",
+      "role": "coordination",
+      "repository_found": true,
+      "migration_verified": false
+    },
+    {
+      "repository": "nimania/pendar-books",
+      "role": "books",
+      "repository_found": true,
+      "migration_verified": false
+    },
+    {
+      "repository": "nimania/pendar-press",
+      "role": "press",
+      "repository_found": true,
+      "migration_verified": false
+    },
+    {
+      "repository": "nimania/pendar-people",
+      "role": "people",
+      "repository_found": true,
+      "migration_verified": false
+    },
+    {
+      "repository": "nimania/jan-kalam",
+      "role": "video",
+      "repository_found": true,
+      "migration_verified": false
+    },
+    {
+      "repository": "nimania/badbadak",
+      "role": "media",
+      "repository_found": true,
+      "migration_verified": false
+    },
+    {
+      "repository": "nimania/pendar-market",
+      "role": "market",
+      "repository_found": true,
+      "migration_verified": false
+    },
+    {
+      "repository": "nimania/radar-iran",
+      "role": "radar",
+      "repository_found": true,
+      "migration_verified": false
+    },
+    {
+      "repository": "nimania/IranSignal",
+      "role": "english_analysis",
+      "repository_found": true,
+      "migration_verified": false
+    },
+    {
+      "repository": "nimania/meshkimedia",
+      "role": "turkish_entertainment",
+      "repository_found": true,
+      "migration_verified": false
+    }
+  ],
+  "unverified_repositories": [
+    {
+      "repository": "nimania/pendar-weather",
+      "status": "not_seen_in_connected_repository_listing"
+    }
+  ],
+  "publishing_policy": {
+    "auto_republish_to_pendar": false,
+    "delete_old_urls": false,
+    "redirects_require_review": true,
+    "seo_audit_before_migration": true
+  }
+}
